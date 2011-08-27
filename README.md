@@ -22,7 +22,7 @@ Files
 -----
 - LICENSE: License documentation.
 - run_windows.bat & run_linux.sh: Run the script.
-- word_statistics.py: Main script.
+- freq_grabber.py: Main script.
 - query_engines.py: Implements query engines (engine per web-site)
 - configuration.ini: Main configuration file.
 - words.txt: Default word list (can be changed in configuration.ini)
