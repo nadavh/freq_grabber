@@ -239,7 +239,7 @@ class BNC (WordStatsQuery):
             hit_count   = '0'
             per_million = '0'
         else:
-            re_txt = "returned ([0-9]+) hits .* frequency: ([0-9.]+) instances per million"
+            re_txt = "returned ([0-9]+) hit.* frequency: ([0-9.]+) instances per million"
             matches = re.findall(re_txt, response_html)
             if not matches:
                 raise WSError("Error: Can't get results", response_html)
