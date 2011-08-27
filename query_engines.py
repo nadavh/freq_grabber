@@ -199,8 +199,8 @@ class BNC (WordStatsQuery):
 
         query_data_list = (
             ('theData', word),
-			('chunk', '1'),
-			('queryType', 'CQL'),
+            ('chunk', '1'),
+            ('queryType', 'CQL'),
             ('qMode', 'Simple+query+%28ignore+case%29'),
             ('inst', '50'),
             ('max', 'INIT'),
