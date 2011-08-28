@@ -202,7 +202,7 @@ class BNC (WordStatsQuery):
             ('chunk', '1'),
             ('queryType', 'CQL'),
             ('qMode', 'Simple+query+%28ignore+case%29'),
-            ('inst', '50'),
+            ('inst', 'count+hits'),
             ('max', 'INIT'),
             ('qname', 'INIT'),
             ('thMode', 'INIT'),
