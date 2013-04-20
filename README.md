@@ -16,7 +16,7 @@ The corpora queried are:
 
 Requirements
 ------------
-- Python. [Download here](http://www.python.org/download)
+- Python. [Download here](http://www.python.org/download) (Please download version 2.7.* and not 3.*)
 
 Files
 -----
